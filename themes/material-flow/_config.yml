@@ -1,0 +1,20 @@
+# Search
+search: 
+  enable: true
+  service: hexo
+
+# navigation menu
+menu:
+  - name: Início
+    slug: início
+    url: /
+  - name: Arquivos
+    slug: arquivos
+    url: /archives
+
+widgets:
+  - about
+
+# Less
+less:
+  compress: true
